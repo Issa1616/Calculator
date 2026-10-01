@@ -66,11 +66,15 @@ Las estructuras de datos permiten organizar los elementos y respetar el orden ne
 
 ## Tecnologías
 
--Java
--Java Collections Framework
--Stack
--Queue
--Programación Orientada a Objetos
+Java
+
+Java Collections Framework
+
+Stack
+
+Queue
+
+Programación Orientada a Objetos
 
 ## Ejecución
 
