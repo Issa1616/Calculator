@@ -64,7 +64,7 @@ Evaluación
 
 Las estructuras de datos permiten organizar los elementos y respetar el orden necesario para procesar las operaciones matemáticas.
 
-Tecnologías
+## Tecnologías
 
 -Java
 -Java Collections Framework
@@ -72,7 +72,7 @@ Tecnologías
 -Queue
 -Programación Orientada a Objetos
 
- Ejecución
+## Ejecución
 
 Para ejecutar el proyecto:
 
@@ -90,7 +90,7 @@ Ingresar la expresión matemática.
 
 Consultar el resultado.
 
- Objetivo del proyecto
+## Objetivo del proyecto
 
 El objetivo principal fue aplicar de manera práctica los conceptos de pilas y colas mediante el desarrollo de una calculadora en Java.
 
@@ -108,11 +108,11 @@ Uso de clases y objetos en Java.
 
 Organización y recorrido de estructuras de datos.
 
- Contexto académico
+## Contexto académico
 
 Proyecto realizado como parte de mi formación en Ingeniería en Sistemas Computacionales, con el propósito de reforzar los conocimientos de la materia de Estructuras de Datos mediante un proyecto práctico.
 
- Autora
+## Autora
 
 Issa Victoria Aguilar Soto
 
